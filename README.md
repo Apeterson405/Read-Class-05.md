@@ -15,6 +15,7 @@ The purpose for learning about the command line is being comfortable with enteri
    home directory, while starting with /, represents the root directory.
 
 4. Explain what Linux is, using anything except English.
+   French:
    Linux est un systeme d'exploitation open-source base sur le noyau Linux. Il offre una alternative gratuite et personnalisable aux systemes d'exploitation commerciiaux comme Windows et macOS.
 
 
